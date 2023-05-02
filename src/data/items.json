@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "NotePad",
+    "price": 10.99,
+    "imgUrl": "/imgs/comp1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tesla",
+    "price": 10.99,
+    "imgUrl": "https://content-images.carmax.com/qeontfmijmzv/MY19MKj0XutK084z874jt/9632621fd8464b5c0e54a9dee64ad4e5/tesla.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Notebook",
+    "price": 10.99,
+    "imgUrl": "/imgs/comp2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Iphone14",
+    "price": 10.99,
+    "imgUrl": "/imgs/Iphone14.jpg"
+  }
+]
