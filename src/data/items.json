@@ -18,15 +18,21 @@
     "imgUrl": "https://content-images.carmax.com/qeontfmijmzv/MY19MKj0XutK084z874jt/9632621fd8464b5c0e54a9dee64ad4e5/tesla.jpg"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Notebook",
     "price": 10.99,
     "imgUrl": "/imgs/comp2.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Iphone14",
     "price": 10.99,
     "imgUrl": "/imgs/Iphone14.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Planshet",
+    "price": 10.99,
+    "imgUrl": "https://kontakt.az/wp-content/uploads/2022/11/macbook-air-spacegray-gallery1-20220606-jpg.webp"
   }
 ]
